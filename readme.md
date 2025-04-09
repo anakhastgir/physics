@@ -1,4 +1,4 @@
-# Three.js Journey
+# Physics - 3JS + Cannon-es
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
